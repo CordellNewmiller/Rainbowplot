@@ -10,23 +10,23 @@ Python 3 version ported from my original IDL version, which is included as rainb
 
 After loading, run 
 
->>> rainbowexample()
+    >>> rainbowexample()
 
 to see an example plot.
 
 
-    ![rainbowexample output](rainbowexample.png)
+![rainbowexample output](rainbowexample.png)
 
 
 I wrote rainbowplot because I was curious about some bleeding light in a map of Jupiter, the one on the lower left in JupS0Bled.png. To see the result, run 
 
->>> plotjupiter()
+    >>> plotjupiter()
 
 with JupS0Bled.fits in the working directory. 
 
 
 
-    ![Jupiter hydrogen](JupS0Bled.png)    !["Side view" of Jupiter data using rainbowplot](plotjupiter.png)
+![Jupiter hydrogen](JupS0Bled.png)    !["Side view" of Jupiter data using rainbowplot](plotjupiter.png)
 
 
 (Jupiter hydrogen data taken using the EXES infrared spectrograph on NASA's airborne observatory SOFIA.)
