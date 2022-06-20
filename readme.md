@@ -14,9 +14,9 @@ After loading, run
 
 to see an example plot.
 
-    ```md
+
     ![rainbowexample output](rainbowexample.png)
-    ```
+
 
 I wrote rainbowplot because I was curious about some bleeding light in a map of Jupiter, the one on the lower left in JupS0Bled.png. To see the result, run 
 
@@ -25,9 +25,9 @@ I wrote rainbowplot because I was curious about some bleeding light in a map of 
 with JupS0Bled.fits in the working directory. 
 
 
-    ```md
+
     ![Jupiter hydrogen](JupS0Bled.png)    !["Side view" of Jupiter data using rainbowplot](plotjupiter.png)
-    ```
+
 
 (Jupiter hydrogen data taken using the EXES infrared spectrograph on NASA's airborne observatory SOFIA.)
 
